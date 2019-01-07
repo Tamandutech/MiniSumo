@@ -6,3 +6,7 @@ This project contains all files from our MiniSumo Robot
 Pedro Gabriel Gengo Lourenço  - pedro.gabriel.lourenco@hotmail.com 
 <br/>
 Henrique Zanferrari Hadermeck - henriquezanferrari@gmail.com
+<br/>
+Karoliny Anjos - karolinyanjos@outlook.com
+
+
