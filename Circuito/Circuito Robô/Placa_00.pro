@@ -1,10 +1,10 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/engenharia1/Documents/eagle/projects/Atmega328P Circuito Básico/MiniSumo Circuito/Placa.brd
+Job           : C:/Users/kik/Documents/Devs/MiniSumo/Circuito/Circuito Robô/Placa.brd
 
 Start at      : 14:43:37 (27/12/2018)
-End at        : 14:48:11 (27/12/2018)
-Elapsed time  : 00:04:32
+End at        : 20:06:47 (07/01/2019)
+Elapsed time  : 11d 05:23
 
 Signals       :    15   RoutingGrid: 6 mil  Layers: 1
 Connections   :    17   predefined:  0 ( 0 Vias )
@@ -13,7 +13,7 @@ Router memory :   733408
 
 Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:04:32
+Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  11d 05:23
 Number of Ripups  :         0         0         0         0         0         0
 max. Level        :         0         0         0         0         0         0
 max. Total        :         0         0         0         0         0         0
